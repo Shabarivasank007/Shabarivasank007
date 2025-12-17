@@ -1,23 +1,68 @@
-<h1 align="center">Hello 👋, I'm Shabarivasan K</h1>
-<h3 align="center">“Learning something new every day”</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shabarivasank007&label=Profile%20views&color=0e75b6&style=flat" alt="shabarivasank007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabarivasank007" alt="shabarivasank007" /></a> </p>
-
-- 🔭 I’m currently working on **Smart Script Ai**
-
-- 🌱 I’m currently learning **Spring Boot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shabarivasan karuppannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabarivasan karuppannan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shabari_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shabari_007" height="30" width="40" /></a>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20👋%20I'm%20Shabarivasan%20K&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00eaff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="center" style="color:#00eaff;">
+  “Learning something new every day”
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shabarivasank007&show_icons=true&locale=en&layout=compact" alt="shabarivasank007" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabarivasank007&label=Profile%20Views&color=00eaff&style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shabarivasank007&show_icons=true&locale=en" alt="shabarivasank007" /></p>
+---
+
+<!-- ===================== ABOUT ===================== -->
+## 🚀 About Me
+
+```yaml
+Name: Shabarivasan K
+Role: Full Stack Developer
+Current Project: Smart Script AI
+Learning: Spring Boot
+Focus: Clean Code • Scalable Systems • Growth
+<!-- ===================== TROPHIES ===================== -->
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shabarivasank007&theme=onestar&no-frame=true&row=1&column=6" /> </p>
+<!-- ===================== CONNECT ===================== -->
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/shabarivasan karuppannan"> <img src="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> <a href="https://www.leetcode.com/shabari_007"> <img src="https://img.shields.io/badge/LeetCode-00eaff?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
+
+<!-- ===================== SKILLS ===================== -->
+💻 Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,react,flutter,js,html,css,php,mysql,mongodb,postgres,figma,postman&theme=dark" /> </p>
+
+
+<!-- ===================== STATS ===================== -->
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shabarivasank007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00eaff&icon_color=00eaff" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shabarivasank007&theme=tokyonight&hide_border=true&ring=00eaff&fire=00eaff&currStreakLabel=00eaff" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabarivasank007&layout=compact&theme=tokyonight&hide_border=true&title_color=00eaff" /> </p>
+
+<!-- ===================== INTERACTIVE ===================== -->
+⚡ More About Me
+<details> <summary>🧠 What I'm Working On</summary>
+
+🤖 Smart Script AI
+
+🔐 Backend API Development
+
+⚙️ Performance Optimization
+
+</details> <details> <summary>🌱 What I'm Learning</summary>
+
+Spring Boot Advanced Concepts
+
+Microservices Architecture
+
+System Design Fundamentals
+
+</details> <details> <summary>🎯 Career Goals</summary>
+
+Become a strong backend engineer
+
+Build scalable real-world products
+
+Contribute to open-source
+
+</details>
+<!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0f2027,100:2c5364&section=footer" /> </p> ```
