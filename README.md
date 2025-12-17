@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/shabarivasank007?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-<!-- Animated Snake -->
+<!-- Animated Snake - FIXED VERSION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabarivasank007/shabarivasank007/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabarivasank007/shabarivasank007/output/github-contribution-grid-snake.svg">
