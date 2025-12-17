@@ -8,18 +8,12 @@
 
 <br/>
 
-<!-- Profile Views & Trophy -->
+<!-- Profile Views & Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=shabarivasank007&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/shabarivasank007?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/shabarivasank007?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
-
-<!-- Animated Snake - FIXED VERSION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shabarivasank007/shabarivasank007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shabarivasank007/shabarivasank007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shabarivasank007/shabarivasank007/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
@@ -124,17 +118,14 @@ const shabari = {
 
 ## 📊 GitHub Analytics
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shabarivasank007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3AACF7&icon_color=3AACF7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabarivasank007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3AACF7&text_color=FFFFFF"/>
-</p>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shabarivasank007&show_icons=true&count_private=true&hide_border=true&title_color=3AACF7&icon_color=3AACF7&text_color=c9d1d9&bg_color=0d1117" alt="Shabarivasan github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabarivasank007&layout=compact&hide_border=true&title_color=3AACF7&text_color=c9d1d9&bg_color=0d1117" />
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabarivasank007&theme=tokyonight&hide_border=true&background=0D1117&stroke=3AACF7&ring=3AACF7&fire=FF6B6B&currStreakLabel=3AACF7" alt="GitHub Streak" />
-</p>
+</div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabarivasank007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3AACF7&line=3AACF7&point=FFFFFF" width="100%" alt="Contribution Graph"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shabarivasank007&theme=tokyonight&hide_border=true&border=3AACF7&background=0D1117&stroke=3AACF7&ring=3AACF7&fire=FF6B6B&currStreakLabel=3AACF7&sideNums=3AACF7&currStreakNum=3AACF7&sideLabels=3AACF7" width="55%"/>
 
 </div>
 
@@ -142,13 +133,47 @@ const shabari = {
 
 <div align="center">
 
-## 🏆 Achievements & Trophies
+## 📈 Contribution Graph
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=shabarivasank007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabarivasank007&custom_title=Shabarivasan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=3AACF7&line=3AACF7&point=FFFFFF&area_color=3AACF7&title_color=3AACF7&area=true" alt="contribution graph">
 
 </div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=shabarivasank007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabarivasank007&theme=tokyonight" width="100%"/>
+
+</div>
+
+<details align="center">
+<summary>📈 More Stats</summary>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabarivasank007&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shabarivasank007&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabarivasank007&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shabarivasank007&theme=tokyonight" width="48%"/>
+</p>
+
+</details>
 
 ---
 
@@ -166,11 +191,14 @@ const shabari = {
   <a href="https://github.com/shabarivasank007">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:shabarivasank007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ### 💬 Let's Collaborate!
-I'm always open to interesting conversations and collaboration opportunities.
-<br/>
+*I'm always open to interesting conversations and collaboration opportunities.*
+
 **Feel free to reach out if you want to build something amazing together! 🚀**
 
 </div>
@@ -179,16 +207,30 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 <div align="center">
 
-## 📈 Contribution Activity
+## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+</div>
+
+---
+
+<div align="center">
+
 ### 🎨 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+</div>
+
+---
+
+<div align="center">
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </div>
 
@@ -196,52 +238,9 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 <div align="center">
 
-### 💡 Fun Stats
+## 💭 Developer Wisdom
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabarivasank007&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabarivasank007&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shabarivasank007&theme=tokyonight" alt="Top Languages by Commit"/>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-<sub>*Replace YOUR_SPOTIFY_ID with your actual Spotify ID*</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/shabarivasank007">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Developer Wisdom
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AACF7&center=true&vCenter=true&random=false&width=800&lines=Any+fool+can+write+code+that+a+computer+can+understand;Good+programmers+write+code+that+humans+can+understand;First%2C+solve+the+problem.+Then%2C+write+the+code;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad" alt="Wisdom" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3AACF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad." alt="Wisdom" />
 
 </div>
 
@@ -251,12 +250,18 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 <div align="center">
 
-**"Code with passion, create with purpose, and never stop learning! 🚀"**
+### ⚡ "Code with passion, create with purpose, and never stop learning!"
 
-<p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-brown?style=for-the-badge" alt="Powered by Coffee"/>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge&labelColor=0D1117" alt="Made with Love"/>
+<img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-brown?style=for-the-badge&labelColor=0D1117" alt="Powered by Coffee"/>
+
+<br>
+
+**Thanks for visiting!** 😊
+
+![Visitor Count](https://profile-counter.glitch.me/shabarivasank007/count.svg)
 
 *Last Updated: December 2024*
 
