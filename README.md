@@ -60,7 +60,8 @@ const shabari = {
 <td align="center" width="50%">
 
 ### 🔭 Working On
-**Smart Script AI** - Revolutionizing content creation with AI-powered scripting solutions
+MAPZO 
+CODE LAP
 
 </td>
 <td align="center" width="50%">
